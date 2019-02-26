@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BaseLib</string>
+    <string name="loading_no_net_default">网络不给力，点击屏幕重试</string>
+    <string name="loading_failed_default">加载失败，点击屏幕重试</string>
+    <string name="loading_empty">暂无数据哦~</string>
+</resources>

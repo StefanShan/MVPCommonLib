@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="LoadingLayout">
+        <attr name="loadingLayout" format="reference" />
+        <attr name="emptyLayout" format="reference" />
+        <attr name="failedLayout" format="reference" />
+        <attr name="noNetLayout" format="reference" />
+        <attr name="emptyReTryId" format="reference" />
+        <attr name="failedReTryId" format="reference" />
+        <attr name="noNetReTryId" format="reference" />
+    </declare-styleable>
+
+</resources>
